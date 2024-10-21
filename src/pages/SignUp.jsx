@@ -30,8 +30,8 @@ function SignUp() {
         form.password,
         form.genre,
         form.birthdate,
-        '+57 320 0384548'
-      ), // ! Telefono quemado
+        '+57 000 0000000'
+      ),
     onSuccess: () => navigate('/login'),
     onError: (e) => {
       console.log(e);

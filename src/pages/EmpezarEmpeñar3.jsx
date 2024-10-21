@@ -3,7 +3,6 @@ import { Link, useNavigate } from 'react-router-dom';
 
 function PawnProducts() {
   const navigate = useNavigate();
-  };
 
   return (
     <div className="max-w-6xl px-4 py-8 mx-auto">
